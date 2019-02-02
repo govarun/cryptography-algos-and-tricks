@@ -15,7 +15,9 @@ john crack.db
 # Use the "--show" option to display all of the cracked passwords reliably
 # Session completed
 
-❯ nc 2018shell2.picoctf.com 40157
+nc 2018shell2.picoctf.com 40157
 Username: root
-Password: kissme
+Password: kissme 
+#password could be different each time, repeat the entire process.
+# flag could also be different
 # picoCTF{J0hn_1$_R1pp3d_1b25af80}
